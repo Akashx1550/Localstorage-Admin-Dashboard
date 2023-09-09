@@ -423,7 +423,8 @@ button.add{
 
 
 form input[type=text]{
-    font-size: 15px
+    font-size: 15px;
+    color: var(--color-dark);
 }
 
 /* Right */
